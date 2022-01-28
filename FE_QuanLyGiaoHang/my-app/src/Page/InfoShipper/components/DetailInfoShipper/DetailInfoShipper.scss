@@ -1,0 +1,35 @@
+.detail-info-shipper {
+    margin: 0px 80px;
+    display: flex;
+    justify-content: center;
+    // border: 1px solid darkgray;
+    .avatar-shipper {
+        margin: 20px 40px;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+    .info-shipper {
+        margin: 24px 40px;
+
+        .info-shipper-items {
+            display: flex;
+            margin: 8px 0px;
+
+            span.ant-typography {
+                margin-left: 12px;
+            }
+        }
+    }
+}
+
+.wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: white;
+    overflow: hidden;
+    padding: 20px;
+}

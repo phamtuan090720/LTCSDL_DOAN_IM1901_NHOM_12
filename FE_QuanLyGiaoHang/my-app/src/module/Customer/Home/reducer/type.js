@@ -1,0 +1,10 @@
+export const GET_POST_REQUEST = 'listPotsReducer/GET_POST_REQUEST';
+export const GET_POST_SUCCESS = 'listPotsReducer/GET_POST_SUCCESS';
+export const GET_POST_FAILED = 'listPotsReducer/GET_POST_FAILED';
+export const SET_PAGINATION = 'listPotsReducer/SET_PAGINATION';
+export const GET_CATEGORY_REQUEST = 'listPotsReducer/GET_CATEGORY_REQUEST';
+export const GET_CATEGORY_SUCCESS = 'listPotsReducer/GET_CATEGORY_SUCCESS';
+export const GET_CATEGORY_FAILED = 'listPotsReducer/GET_CATEGORY_FAILED';
+export const DELETE_POST_REQUEST = 'deletePostReducer/DELETE_POST_REQUEST';
+export const DELETE_POST_SUCCESS = 'deletePostReducer/DELETE_POST_SUCCESS';
+export const DELETE_POST_FAILED = 'deletePostReducer/DELETE_POST_FAILED';

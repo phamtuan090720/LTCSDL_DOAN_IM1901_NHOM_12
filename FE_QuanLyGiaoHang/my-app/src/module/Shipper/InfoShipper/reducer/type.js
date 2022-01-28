@@ -1,0 +1,3 @@
+export const GET_DETAIL_INFO_REQUEST = 'detailInfoShipperReducer/GET_DETAIL_INFO_REQUEST'
+export const GET_DETAIL_INFO_SUCCESS = 'detailInfoShipperReducer/GET_DETAIL_INFO_SUCCESS'
+export const GET_DETAIL_INFO_FAILED = 'detailInfoShipperReducer/GET_DETAIL_INFO_FAILED'
